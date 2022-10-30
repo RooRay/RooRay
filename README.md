@@ -12,7 +12,7 @@ You can contact me in the following ways (in order of preferred means):
 - Email: main@rooray.xyz
 - Twitter: Roo_Ray_
 
-* My Discord DMs aren't public, if you'd like to DM me, please join a server I'm in ([such as my own](https://discord.gg/s6jxcSbXth)) and ping me asking to DM me.
+*My Discord DMs aren't public, if you'd like to DM me, please join a server I'm in ([such as my own](https://discord.gg/s6jxcSbXth)) and ping me asking to DM me.
 
 ## Stats
 
