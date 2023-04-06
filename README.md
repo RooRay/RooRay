@@ -17,7 +17,6 @@ You can contact me in the following ways (in order of preferred means):
 I use a lot of software frequently for GitHub and development-related projects, here are some of my favourites! Sorted alphabetically.
 
 ![Backblaze](https://img.shields.io/static/v1?style=for-the-badge&message=Backblaze&color=E21E29&logo=Backblaze&logoColor=FFFFFF&label=)
-![Canva](https://img.shields.io/static/v1?style=for-the-badge&message=Canva&color=222222&logo=Canva&logoColor=00C4CC&label=)
 ![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=Cloudflare&logoColor=FFFFFF&label=)
 ![Codecademy](https://img.shields.io/static/v1?style=for-the-badge&message=Codecademy&color=1F4056&logo=Codecademy&logoColor=FFFFFF&label=)
 ![Dashlane](https://img.shields.io/static/v1?style=for-the-badge&message=Dashlane&color=0E353D&logo=Dashlane&logoColor=FFFFFF&label=)
